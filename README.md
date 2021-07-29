@@ -18,6 +18,8 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)]()
 <!-- 각종 아이콘(URL 수정 필요) -->
 
+[![soljjang777's GitHub stats](https://github-readme-stats.vercel.app/api?username=soljjang777)](https://github.com/soljjang777/github-readme-stats)
+
 [![seadonggyun4's GitHub stats](https://github-readme-stats.vercel.app/api?username=seadonggyun4)](https://github.com/seadonggyun4/github-readme-stats)
 
 [![jshhhhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jshhhhh)](https://github.com/jshhhhh/github-readme-stats)
