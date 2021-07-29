@@ -18,4 +18,4 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)]()
 <!-- 각종 아이콘(URL 수정 필요) -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![jshhhhh's GitHub stats](https://github-readme-stats.vercel.app/api?username=jshhhhh)](https://github.com/jshhhhh/github-readme-stats)
