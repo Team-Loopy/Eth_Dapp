@@ -1,4 +1,4 @@
-pragma solidity ^0.5.16;
+pragma solidity ^0.4.24;
 
 contract MyContract {
    struct Student {
@@ -9,7 +9,7 @@ contract MyContract {
    
    mapping(uint256 => Student) studentInfo;
    
-   function setStudentInfo(uint _studentId, string memory _name, string memory _gender, uint _age) public {
+   function setStudentInfo(uint _studentId, string _name, string _gender, uint _age) public {
        Student storage student = studentInfo[_studentId];
        
        student.studentName = _name;
@@ -17,7 +17,7 @@ contract MyContract {
        student.age = _age;
    }
    
-   function getStudentInfo(uint256 _studentId) public view returns (string memory, string memory, uint) {
+   function getStudentInfo(uint256 _studentId) public view returns (string, string, uint) {
        return (studentInfo[_studentId].studentName, studentInfo[_studentId].gender, studentInfo[_studentId].age);
    }
 }
